@@ -1,0 +1,25 @@
+OpenGL: 3.3.0 - Build 30.0.101.1934
+Renderer: Intel(R) Iris(R) Xe Graphics
+body.obj: 508 triangles
+lid.obj: 508 triangles
+hinge_fixed.obj: 1140 triangles
+hinge_lid.obj: 760 triangles
+insert.obj: 300 triangles
+chimney.obj: 2536 triangles
+wheel.obj: 820 triangles
+supports.obj: 756 triangles
+flint.obj: 156 triangles
+wick.obj: 76 triangles
+O: open | C: close | F: ignite | E: extinguish | Space: demo | R: reset
+Left drag: orbit | Right drag: pan | Wheel: zoom | Esc: exit
+Endurance 60s, demos=6, particles=0
+Endurance 120s, demos=12, particles=11
+Endurance 180s, demos=19, particles=0
+Endurance 240s, demos=25, particles=0
+Endurance 300s, demos=31, particles=0
+Endurance 360s, demos=38, particles=0
+Endurance 420s, demos=44, particles=0
+Endurance 480s, demos=50, particles=0
+Endurance 540s, demos=57, particles=0
+Endurance 600s, demos=63, particles=0
+Endurance passed: 600 seconds, 63 complete demos
